@@ -1,8 +1,10 @@
 # 小柒的图床   
 
+
 ---
 
->**所需工具**  
+
+>## **所需工具**  
 >- 图床选择：[GitHub](https://github.com)  
 >- 图床上传【 PicGo 、 PicX（任选其一）】：  
   [PicGo官网](https://molunerfinn.com/PicGo/) | [PicGo-GitHub](https://github.com/Molunerfinn/PicGo)  
@@ -11,8 +13,8 @@
   [jsDelivr官网](https://www.jsdelivr.com/) | [jsDelivr-GitHub](https://github.com/jsdelivr/jsdelivr)  
   [Statically官网](https://statically.io/) | [Statically-GitHub](https://github.com/staticallyio/statically)     
 
->**GitHub加速**  
-> ***访问***：  
+>## **GitHub加速**
+>### 1. ***访问***：  
   >-  工具&加速器：  
     [Watt Toolkit（原steam++）(推荐)](https://steampp.net/)  
     [1.1.1.1-WARP-CloudFlare-APP(推荐)](https://1.1.1.1/zh-Hans/)     
@@ -24,20 +26,20 @@
     [hosts@ineo6](https://github.com/ineo6/hosts)  
     [gitHub-hosts](https://github.com/isevenluo/github-hosts)  
   >-  代理：无推荐
-  >-  脚本/插件：无推荐  
-        
->***下载***
+  >-  脚本/插件：无推荐       
+>### 2. ***下载***
   >- [脚本-GitHub增强-高速下载](https://greasyfork.org/zh-CN/scripts/412245)
   >- [GitHub-文件夹下载](https://greasyfork.org/en/scripts/434592)
-
->***优化***
+>### 3. ***优化***
 >- [GitHub-web-IDE](https://chrome.google.com/webstore/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe)
 >- [目录提纲](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
 >- [GitHub目录树](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk)
 >- [GitHub汉化插件](https://greasyfork.org/zh-CN/scripts/407485)
 >- [GitHubDesktop汉化](https://github.com/robotze/GithubDesktopZhTool)
 
+
 ---
+
 
 ## picgo项目 
 
@@ -71,13 +73,13 @@
 
 ---
 
+
 ## PicX项目
 
 **[PicX](https://picx.xpoet.cn)** 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
 >[PicX官网](https://picx.xpoet.cn) | [PicX-GitHub](https://github.com/XPoet/picx) | [PicX指南](https://picx-docs.xpoet.cn)
 
----
 
 ### PicX亮点 | Highlights
 
@@ -102,6 +104,7 @@
 - [x] 工具箱（[图片压缩](https://picx-docs.xpoet.cn/usage-guide/toolbox.html#%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9)、[图片转 Base64](https://picx-docs.xpoet.cn/usage-guide/toolbox.html#%E5%9B%BE%E7%89%87%E8%BD%AC-base64)、[图片水印](https://picx-docs.xpoet.cn/usage-guide/toolbox.html#%E5%9B%BE%E7%89%87%E6%B0%B4%E5%8D%B0)）
 
 ---
+
 
 ## 参考文章
 - [GitHub极简教程@奔跑中的奶酪](https://www.runningcheese.com/awesome-github)
