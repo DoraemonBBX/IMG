@@ -1,14 +1,26 @@
 # 小柒的图床   
 >**所需工具**  
 >- 图床选择：[GitHub](https://github.com)  
->- 图床上传【 PicGo 、 PicX（任选其一）】： [PicGo官网](https://molunerfinn.com/PicGo/) | [PicGo-GitHub](https://github.com/Molunerfinn/PicGo)  /  [PicX官网](https://picx.xpoet.cn/) | [PicX-GitHub](https://github.com/XPoet/picx)    
->- 图床加速工具【 jsDelivr 、 Statically （任选其一）】： [jsDelivr官网](https://www.jsdelivr.com/) | [jsDelivr-GitHub](https://github.com/jsdelivr/jsdelivr)  /  [Statically官网](https://statically.io/) | [Statically-GitHub](https://github.com/staticallyio/statically)     
+>- 图床上传【 PicGo 、 PicX（任选其一）】：  
+  [PicGo官网](https://molunerfinn.com/PicGo/) | [PicGo-GitHub](https://github.com/Molunerfinn/PicGo)  
+  [PicX官网](https://picx.xpoet.cn/) | [PicX-GitHub](https://github.com/XPoet/picx)    
+>- 图床加速工具【 jsDelivr 、 Statically （任选其一）】：  
+  [jsDelivr官网](https://www.jsdelivr.com/) | [jsDelivr-GitHub](https://github.com/jsdelivr/jsdelivr)  
+  [Statically官网](https://statically.io/) | [Statically-GitHub](https://github.com/staticallyio/statically)     
 
 >**GitHub加速**  
 
 > ***访问***：  
-  >-  工具&加速器：  [Watt Toolkit（原steam++）(推荐)](https://steampp.net/) | [1.1.1.1-WARP-CloudFlare-APP(推荐)](https://1.1.1.1/zh-Hans/) | [FastGitHub](https://github.com/dotnetcore/FastGithub) | [dev-sidecar](https://github.com/docmirror/dev-sidecar)
-  >-  修改host：[GitHub520(推荐)](https://github.com/521xueweihan/GitHub520) | [1.1.1.1-WARP-CloudFlare-DNS(推荐)](https://1.1.1.1/zh-Hans/dns/) | [hosts@ineo6](https://github.com/ineo6/hosts) | [gitHub-hosts](https://github.com/isevenluo/github-hosts)
+  >-  工具&加速器：  
+    [Watt Toolkit（原steam++）(推荐)](https://steampp.net/)  
+    [1.1.1.1-WARP-CloudFlare-APP(推荐)](https://1.1.1.1/zh-Hans/)     
+    [FastGitHub](https://github.com/dotnetcore/FastGithub)  
+    [dev-sidecar](https://github.com/docmirror/dev-sidecar)  
+  >-  修改host：  
+    [GitHub520(推荐)](https://github.com/521xueweihan/GitHub520)  
+    [1.1.1.1-WARP-CloudFlare-DNS(推荐)](https://1.1.1.1/zh-Hans/dns/)  
+    [hosts@ineo6](https://github.com/ineo6/hosts)  
+    [gitHub-hosts](https://github.com/isevenluo/github-hosts)  
   >-  代理：无推荐
   >-  脚本/插件：无推荐  
         
