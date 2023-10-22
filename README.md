@@ -1,4 +1,7 @@
 # 小柒的图床   
+
+---
+
 >**所需工具**  
 >- 图床选择：[GitHub](https://github.com)  
 >- 图床上传【 PicGo 、 PicX（任选其一）】：  
@@ -9,7 +12,6 @@
   [Statically官网](https://statically.io/) | [Statically-GitHub](https://github.com/staticallyio/statically)     
 
 >**GitHub加速**  
-
 > ***访问***：  
   >-  工具&加速器：  
     [Watt Toolkit（原steam++）(推荐)](https://steampp.net/)  
